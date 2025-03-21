@@ -112,8 +112,8 @@ Include screenshot of the dataset
 
 
 ### New Sample Data Prediction
+![image](https://github.com/user-attachments/assets/7c569656-580f-410c-8ead-fe5309637542)
 
-Include your sample input and output here
 
 ## RESULT
 
