@@ -108,8 +108,8 @@ Include screenshot of the dataset
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
+![image](https://github.com/user-attachments/assets/2f1ac6eb-ba83-4935-994b-0f2f3a03f0b3)
 
-Include your plot here
 
 ### New Sample Data Prediction
 
