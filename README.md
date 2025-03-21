@@ -118,5 +118,4 @@ Include screenshot of the dataset
 
 
 ## RESULT
-
-Include your result here
+Thus a neural network regression model for the dataset was developed successfully.
